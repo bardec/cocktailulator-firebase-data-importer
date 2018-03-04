@@ -1,0 +1,4 @@
+node_modules/
+*.json
+*.swp
+!package.json

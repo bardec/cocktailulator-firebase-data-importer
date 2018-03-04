@@ -1,0 +1,16 @@
+{
+  "name": "data-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.9.1",
+    "md5": "^2.2.1",
+    "uuid": "^3.2.1"
+  }
+}
